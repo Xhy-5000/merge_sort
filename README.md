@@ -1,7 +1,7 @@
 # merge_sort
 Implementation for merge sort.
 
-Input: N, and N rows where each row contains an unsigned number.
+Input: N, and N rows where each row contains an unsigned number.(N <= 500000)
 
 Output: N rows of sorted numbers in ascending order.
 
@@ -53,11 +53,3 @@ Sample Output:
 
 973168785
 
-
-Size of N:
-
-30%: N <= 100
-
-70%: N <= 100000
-
-100%: N <= 500000
